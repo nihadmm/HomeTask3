@@ -1,0 +1,14 @@
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.csproj.AssemblyReference.cache
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.AssemblyInfoInputs.cache
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.AssemblyInfo.cs
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.csproj.CoreCompileInputs.cache
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.exe
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.deps.json
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.runtimeconfig.json
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.runtimeconfig.dev.json
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.dll
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\bin\Debug\netcoreapp3.1\HomeTask3.pdb
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.dll
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.pdb
+C:\Users\nihad\source\repos\HomeTask3\HomeTask3\obj\Debug\netcoreapp3.1\HomeTask3.genruntimeconfig.cache
